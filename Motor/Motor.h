@@ -1,3 +1,9 @@
+/*
+This is a Motor library for 2WD Driving system
+
+*/
+
+
 #ifndef MOTOR_H_
 #define MOTOR_H_
 #include <Arduino.h>
